@@ -2,7 +2,6 @@
 
 A tiny terminal tool that displays a random bokita image.
 
-Displays a random Bokita image in your terminal.  
 Requires a terminal that supports image rendering.  
 Uses [yxtwitter.com](https://yxtwitter.com) to fetch Bokita images.
 
